@@ -5,5 +5,7 @@ package cn.edu.xttc;
  * @description
  * @date 2021-07-29 09:13
  */
-public class Class {
+public class Student {
+    private String name;
+    private String password;
 }
