@@ -8,4 +8,5 @@ package cn.edu.xttc;
 public class Person {
     private String name;
     private int age;
+    private double height;
 }
